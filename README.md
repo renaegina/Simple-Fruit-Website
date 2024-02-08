@@ -1,5 +1,5 @@
 # Simple Fruit Website
-<p align="center"><img src="Output.png" width="700px" alt="Website"></a></p>
+<p align="center"><img src="Output.png" width="800px" alt="Website"></a></p>
 
 ## Features
 
